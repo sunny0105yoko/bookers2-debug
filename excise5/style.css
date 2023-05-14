@@ -1,0 +1,107 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing:border-box;
+  color: #6c6b6b;
+}
+
+header{
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin:0 auto;
+  text-align: center;
+}
+
+.nav-list{
+  text-align: center;
+  padding 15px 0;
+  border-bottom: 1px solid #848282;
+  border-top: 1px solid #848282;
+  margin:0 auto;
+}
+.nav-list-item{
+  list-style: none;
+  display:inline-block;
+  padding: 0 20px;
+}
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  margin:50px auto;
+  justify-content: center;
+}  
+
+.flex-box1{
+  background-color: #e6ffe9;
+  width: 200px;
+  height: 200px;
+}
+.flex-box2{
+  background-color: #cbffd3;
+  width: 200px;
+  height: 200px;
+}
+.flex-box3{
+  background-color: #aeffbd;
+  width: 200px;
+  height: 200px;
+}
+.flex-box4{
+  background-color: #93ffab;
+  width: 200px;
+  height: 200px;
+}
+.flex-box5{
+  background-color: #f3ffd8;
+  width: 200px;
+  height: 200px;
+}
+.flex-box6{
+  background-color: #edffbe;
+  width: 200px;
+  height: 200px;
+}
+.flex-box7{
+  background-color: #e9ffa5;
+  width: 200px;
+  height: 200px;
+}
+.flex-box8{
+  background-color: #e4ff8d;
+  width: 200px;
+  height: 200px;
+}
+.flex-box9{
+  background-color: #d9e5ff;
+  width: 200px;
+  height: 200px;
+}
+.flex-box10{
+  background-color: #bad3ff;
+  width: 200px;
+  height: 200px;
+}
+.flex-box11{
+  background-color: #bad3ff;
+  width: 200px;
+  height: 200px;
+}
+.flex-box12{
+  background-color: #8eb8ff;
+  width: 200px;
+  height: 200px;
+}
+
+footer{
+  width: 100%;
+  height: 120px;
+  text-align: center;
+  line-height: 120px;
+  background-color: #848282;
+}
+.footer-text {
+  color: #fff;
+}
